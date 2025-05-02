@@ -43,7 +43,7 @@ body::after {
 
 header {
     width: 100%;
-    height: 60vh; /* Adjusted height for scrollability */
+    height: 30vh; /* Adjusted height for scrollability */
     overflow: hidden;
     position: relative; /* Position relative for the pseudo-element */
 }
